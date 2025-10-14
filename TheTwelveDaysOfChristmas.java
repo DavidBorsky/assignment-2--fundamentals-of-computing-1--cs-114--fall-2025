@@ -1,36 +1,4 @@
-// Run in PowerShell:
-// cd "c:\Users\dbors\OneDrive\Documents\GitHub\assignment-2--fundamentals-of-computing-1--cs-114--fall-2025"
-// javac TheTwelveDaysOfChristmas.java
-// java TheTwelveDaysOfChristmas
 
-/*rite a program that prints the verses of the song “The Twelve Days of Christmas,” in which each 
-verse adds one line. The first two verses of the song are:
-
-    On the 1st day of Christmas my true love gave to me
-    A partridge in a pear tree.
-    On the 2nd day of Christmas my true love gave to me
-    Two turtle doves, and
-    A partridge in a pear tree.
-
-Use a `switch` statement in a loop to control which lines get printed. *Hint*: Order the cases 
-carefully and avoid the `break` statement. Use a separate `switch` statement to put the
- appropriate suffix on the day number (1st, 2nd, 3rd, etc). The final verse of the song involves
-  all 12 days, as follows:
-
-    On the 12th day of Christmas, my true love gave to me
-  Twelve drummers drumming,
-  Eleven pipers piping,
-  Ten lords a-leaping,
-  Nine ladies dancing,
-  Eight maids a-milking,
-  Seven swans a-swimming,
-  Six geese a-laying,
-  Five golden rings,
-  Four calling birds,
-  Three French hens,
-    Two turtle doves, and
-    A partridge in a pear tree.
-*/
 
 public class TheTwelveDaysOfChristmas {
   public static void main(String[] args) {

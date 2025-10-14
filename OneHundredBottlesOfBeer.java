@@ -1,19 +1,3 @@
-/*Write a program that prints the first few verses of the traveling song “One Hundred Bottles 
-of Beer.” Use a loop such that each iteration prints one verse. Read the number of verses to 
-print from the user. Validate the input. The following are the first two verses of the song:
-
-    100 bottles of beer on the wall
-    100 bottles of beer
-    If one of those bottles should happen to fall
-    99 bottles of beer on the wall
-
-    99 bottles of beer on the wall
-    99 bottles of beer
-    If one of those bottles should happen to fall
-    98 bottles of beer on the wall
-
----*/
-
 
 import java.util.Scanner;
 
